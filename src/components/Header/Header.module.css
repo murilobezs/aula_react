@@ -10,6 +10,7 @@
     font-size: 1.5rem;
     align-items: center;
     justify-content: space-around;
+    font-family: Poppins, Bold;
 }
 
 .header span{
@@ -28,3 +29,8 @@
     padding-inline: 0.5rem;
     font-size: 1.125rem;
 }
+
+@font-face {
+    font-family: 'Poppins';
+    src: local('Poppins'), url(../fonts/Poppins-Bold.ttf) format('truetype');
+  }

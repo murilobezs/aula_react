@@ -9,8 +9,10 @@ function App() {
     <>
       <Header/>
       <Banner/>
+      <Container>
       <h1>ETEC MCM</h1>
       <p>Teste de React</p>
+      </Container>
       <Footer/>
     </>
   );

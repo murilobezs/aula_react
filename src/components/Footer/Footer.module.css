@@ -1,18 +1,25 @@
 .footer{
-    position: absolute;
-    bottom: 0;
-    width: 100%;
     display: flex;
-    align-items: center;
+    align-items: center ;
     justify-content: center;
     background-color: black;
     color: white;
-    border-top: 2px solid #f44336;
-    padding-block: 0.5rem
+    border-top: 2px solid red;
+    padding-block: 0.5rem;
+    width: 100%;
+    height: 100%;
+    font-family: Poppins, serif;
 }
 
 .footer h2{
     font-size: 1rem;
     font-weight: 500;
-
+    color: whitesmoke;
+    position: relative;
+    top: 0;
 }
+
+@font-face {
+    font-family: 'Poppins';
+    src: local('Poppins'), url(../fonts/Poppins-Regular.ttf) format('truetype');
+  }
