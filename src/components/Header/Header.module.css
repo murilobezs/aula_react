@@ -30,7 +30,3 @@
     font-size: 1.125rem;
 }
 
-@font-face {
-    font-family: 'Poppins';
-    src: local('Poppins'), url(../fonts/Poppins-Bold.ttf) format('truetype');
-  }
