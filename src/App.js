@@ -2,16 +2,26 @@ import Footer from "./components/Footer";
 import Header from "./components/Header";
 import Banner from "./components/Banner";
 import Container from "./components/Container";
-
+import Card from "./components/Card";
+import videos from "./json/videos.json"
 
 function App() {
   return (
     <>
       <Header/>
-      <Banner/>
+      <Banner image="home"/>
       <Container>
-      <h1>ETEC MCM</h1>
-      <p>Teste de React</p>
+      <h2>Videoclipes</h2>
+        <section className="cards">
+        
+        {
+          videos.map((video) => {
+            return <Card id={video.id} key={video.id} />
+          })
+        }
+
+
+        </section>
       </Container>
       <Footer/>
     </>

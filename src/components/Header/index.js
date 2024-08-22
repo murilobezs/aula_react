@@ -3,9 +3,9 @@ import styles from "./Header.module.css";
 function Header(){
     return(
         <header className={styles.header} >
-            <span>ETECFLIX</span> 
+            <span>TecMori</span> 
             <nav>
-                <a href="#">Home</a>
+                <a href="#">Início</a>
                 <a href="#">Assistir</a>
             </nav>
         </header>
