@@ -8,6 +8,9 @@ function Card({id}){
                 <img src={`https://i.ytimg.com/vi/${id}/mqdefault.jpg?sqp=-oaymwEcCNAFEJQDSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLAoC3wYEdfT44Nt98Ri6BajhUMVhQ`} 
                 alt="Capa"/>
             </Link>
+            <figure>
+                
+            </figure>
         </section>
     );
 }

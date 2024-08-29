@@ -10,8 +10,8 @@ function Header(){
             
             <nav>
                 <Link to="/">Início</Link>
-                <Link to="/Watch">Assistir</Link>
                 <Link to="/search">Pesquisar</Link>
+                <Link to="/favorites">Favoritos</Link>
             </nav>
         </header>
     );
