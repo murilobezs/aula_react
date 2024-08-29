@@ -119,6 +119,27 @@
         "category": "73 questões | Vogue"
     },
     {
+        "id": "rDDiP2OKmLc",
+        "title": "GLEE - Full Performance of 'What Doesn't Kill You (Stronger)'",
+        "cover": "https://img.youtube.com/vi/rDDiP2OKmLc/maxresdefault.jpg",
+        "url": "https://www.youtube.com/watch?v=rDDiP2OKmLc",
+        "category": "Musicais"
+    },
+    {
+        "id": "eEZxG79lpJM",
+        "title": "GLEE - Full Performance of 'Candyman'",
+        "cover": "https://img.youtube.com/vi/eEZxG79lpJM/maxresdefault.jpg",
+        "url": "https://www.youtube.com/watch?v=eEZxG79lpJM",
+        "category": "Musicais"
+    },
+    {
+        "id": "bjKcwjvbZLM",
+        "title": "GLEE - Full Performance of 'Loser Like Me'",
+        "cover": "https://img.youtube.com/vi/bjKcwjvbZLM/maxresdefault.jpg",
+        "url": "https://www.youtube.com/watch?v=bjKcwjvbZLM",
+        "category": "Musicais"
+    },
+    {
         "id": "yVWjeHQTl8g",
         "title": "Pitch Perfect 2 - Trailer",
         "cover": "https://img.youtube.com/vi/yVWjeHQTl8g/maxresdefault.jpg",
@@ -214,6 +235,13 @@
         "title": "Vitória Strada no Poddelas",
         "cover": "https://img.youtube.com/vi/ndVVEHBrNbw/maxresdefault.jpg",
         "url": "https://www.youtube.com/watch?v=ndVVEHBrNbw",
+        "category": "Entrevistas"
+    },
+    {
+        "id": "OnWOY5qAai8",
+        "title": "Urias no Poddelas",
+        "cover": "https://img.youtube.com/vi/OnWOY5qAai8/maxresdefault.jpg",
+        "url": "https://www.youtube.com/watch?v=OnWOY5qAai8",
         "category": "Entrevistas"
     }
 ]
