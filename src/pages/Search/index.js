@@ -5,14 +5,15 @@ import styles from "./Search.module.css";
 import videos from "../../json/videos.json";
 /*import VideoList from "../../components/VideoList";*/
 import SearchVideoList from "../../components/SearchVideoList";
+import ScrollToTopButton from "../../components/ScrollToTopButton";
 
 function Search() {
     return (
         <>
+        <ScrollToTopButton/>
         <Header />
         <Container>
             <section className={styles.search}>
-                <h2>Pesquisar</h2>
                 
                 <SearchVideoList videos={videos} />
                 

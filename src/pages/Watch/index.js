@@ -1,5 +1,6 @@
 import styles from "./Watch.module.css";
 import Header from "../../components/Header";
+import ScrollToTopButton from "../../components/ScrollToTopButton";
 import Container from "../../components/Container";
 import Footer from "../../components/Footer";
 import { useParams } from "react-router-dom";
@@ -15,6 +16,7 @@ function Watch (){
     
     return (
         <>
+        <ScrollToTopButton/>
             <Header/>
             <Container>
                 <section className={styles.watch}>
