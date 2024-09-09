@@ -5,7 +5,7 @@ function Header(){
     return(
         <header className={styles.header} >
             <Link to="/">
-                <span>TecMori</span> 
+                <span>MuriFlix</span> 
             </Link>
             
             <nav>

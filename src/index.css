@@ -26,7 +26,7 @@ body::-webkit-scrollbar-track {
 }
 
 body::-webkit-scrollbar-thumb {
-    background-color: #b71c1c;  /* cor do scroll (thumb) da barra de rolagem */
+    background-color: #924DBF;  /* cor do scroll (thumb) da barra de rolagem */
     border-radius: 20px;          /* arredondar o scroll (thumb) */
     border: 3px solid #222;     /* criar um espaco em volta do scroll */
 }

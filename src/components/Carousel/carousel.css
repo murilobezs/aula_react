@@ -1,5 +1,5 @@
 .slick-prev::before,
 .slick-next::before{
-    color:red;
+    color: #9e72c3;
     font-size: 1.5rem;
 }
