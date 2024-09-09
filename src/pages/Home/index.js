@@ -15,21 +15,21 @@ const slides = [
         image: '/images/banner-1.jpg',
         title: 'Taylor Swift',
         paragraph: 'Assista agora ao clipe de "Bejeweled" de Taylor Swift.',
-        buttonLink: '/watch/',
+        buttonLink: '/watch/b7QlX3yR2xs',
         buttonText: 'Assistir'
     },
     {
         image: '/images/banner-2.jpg',
         title: 'Dua Lipa',
         paragraph: 'Confira os bastidores da turnê "Future Nostalgia" de Dua Lipa.',
-        buttonLink: '/watch/atxYe-nOa9w',
+        buttonLink: '/watch/asrGCMGSmY0',
         buttonText: 'Assistir'
     },
     {
         image: '/images/banner-3.jpg',
         title: 'Rebeca Andrade',
         paragraph: 'Confira o ouro que consagrou Rebeca como a maior medalhista olímpica brasileira.',
-        buttonLink: '/watch/ziatgnrtG0Y',
+        buttonLink: '/watch/YJib4tx6294',
         buttonText: 'Assistir'
     }
 ];
