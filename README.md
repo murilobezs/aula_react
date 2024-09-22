@@ -1,6 +1,9 @@
 ## Link do  Projeto final denominado MuriFlix
 https://muriflix-mauve.vercel.app/
 
+##
+
+Banner feito com a lib react-bootstrap
 
 ###
 
