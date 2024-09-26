@@ -1,11 +1,12 @@
 import { Link } from "react-router-dom";
 import styles from "./Header.module.css";
+import img1 from "../Header/MuriFlix.png";
 
 function Header(){
     return(
         <header className={styles.header} >
             <Link to="/">
-                <span>MuriFlix</span> 
+               <span><img src={img1} alt=""/></span> 
             </Link>
             
             <nav>
